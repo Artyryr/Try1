@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
