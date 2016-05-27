@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\bin\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\bin\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\Try1\DatabaseHandler\bin\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\Try1\DatabaseHandler\bin\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\Try1\DatabaseHandler\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Try1\DatabaseHandler\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\bin\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\bin\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\DatabaseHandler\obj\Debug\DatabaseHandler.pdb

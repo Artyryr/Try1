@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\CourseTask.exe.config
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\CourseTask.exe
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\CourseTask.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\bin\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\CourseTask.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\Try1.AboutForm.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\Try1.CloseDialogForm.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\Try1.MainForm.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\CourseTask.Properties.Resources.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\CourseTask.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\CourseTask.exe
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Курсовая\Try1\Try1\obj\Debug\CourseTask.pdb
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\CourseTask.exe.config
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\CourseTask.exe
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\CourseTask.pdb
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\CourseTask.exe
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\CourseTask.pdb
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Try1\Try1\bin\Debug\DatabaseHandler.pdb
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\CourseTask.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\Try1.AboutForm.resources
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\Try1.CloseDialogForm.resources
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\Try1.MainForm.resources
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\CourseTask.Properties.Resources.resources
+C:\Users\User\Desktop\Try1\Try1\obj\Debug\CourseTask.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\CourseTask.exe.config
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\CourseTask.exe
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\CourseTask.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\CourseTask.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\Try1.AboutForm.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\Try1.CloseDialogForm.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\Try1.MainForm.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\CourseTask.Properties.Resources.resources
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\obj\Debug\CourseTask.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\CourseTask.exe
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\CourseTask.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\DatabaseHandler.dll
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\ХИРЭ\2 семестр\Программирование\Try1\Try1\bin\Debug\DatabaseHandler.pdb
